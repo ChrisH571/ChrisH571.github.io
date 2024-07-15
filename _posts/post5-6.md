@@ -1,0 +1,5 @@
+---
+layout: post
+title: Week 5-6
+---
+I spent weeks 5 and 6 learning about machine learning techniques and using a linear regression model to predict whether or not a person had anxiety based on a social media post. I started off with a smaller data set, and I was able to use a single factor (word choice) to predict anxiety with about 95% accuracy, although adding other factors such as post length and number of capital letters did slightly increase the accuracy of the model. Then I moved on to a larger dataset, which proved challenging at first as the original model was no more accurate than a coin flip when trained on this dataset. After some tinkering, I was able to remedy the problem by removing "neutral" words that didn't have significant differences is usage between anxious and non-anxious individuals from the word choice analysis, and adding a middle ground category for cases that were near the threshold for anxious/non-anxious. With this model, anxiety can be predicted with incredibly high (possibly as high as 99%) accuracy, but higher accuracy comes with a cost of more results being unclassified.
