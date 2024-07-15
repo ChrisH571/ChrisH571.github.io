@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My name is Christopher Hinton and I'm a Software Engineering student at Florida Tech. I'm currently a senior planning to graduate in Spring 2025, and you can contact me at 28chrisH@gmail.com.
+My name is Christopher Hinton and I'm a Software Engineering student at Florida Tech. I'm currently a senior planning to graduate in Spring 2025, and you can contact me at 28chrisH@gmail.com. 
 
 ## About My Mentor
 
